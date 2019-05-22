@@ -11,7 +11,7 @@ package com.alaska;
  */
 public class HelloWorld {
 	public void hello(){
-		System.out.println("HelloWorld");
+		System.out.println("HelloWorld1");
 	}
 
 	public static void main(String[] args) {
